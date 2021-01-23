@@ -1,3 +1,3 @@
 {
-    "files": ["main.py", "form.ui"]
+    "files": ["session_manager.py","main.py","form.ui","instrument_manager.py"]
 }
